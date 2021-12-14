@@ -9,6 +9,9 @@ Moviely juga dapat menampilkan detail serta menampilkan Trailer dari Movie atau 
               Qurrota Aini Dila Az Zahra (1957051010)
      Kelas  : A
  ``` 
+## APK
+Versi APK
+[releases page](https://github.com/ghinaramita/Moviely/releases/tag/v1.0)
 
 ## Logo 
 <img src="https://drive.google.com/uc?export=view&id=1RTHY9GY0m6z6ZQZbugkgZCNBao7TgQ3p" width="350" height="350">
